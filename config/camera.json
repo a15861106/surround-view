@@ -1,0 +1,6 @@
+{
+    "image_width": 2560, 
+    "image_height": 1920,
+    "camera_matrix": 1,
+    "distortion_coefficients": 1  
+}
